@@ -1,0 +1,50 @@
+body {
+  background: #f4f4f4;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container{
+  background: #fff;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
+#timer{
+  font-size: 3rem;
+  margin: 1.5rem 0;
+}
+
+#timer.paused {
+  color: red;
+}
+
+#timer.red{
+    color:red;
+}
+
+@keyframes blink{
+    0%,100%{opacity:1;}
+    50%{opacity:0;}
+}
+
+#timer.blink{
+    animation:blink .55s step-end infinite;
+}
+.controls button {
+  margin: 0 0.5rem;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  background: #e74c3c;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.controls button:hover {
+  background: #c0392b;
+}
