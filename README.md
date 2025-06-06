@@ -17,13 +17,6 @@ A simple, customizable Pomodoro Timer web app built with HTML, CSS, and JavaScri
 
 ---
 
-## Screenshot
-
-![Screenshot of Pomodoro Timer](images/pomodoro-screenshot.png)
-
-*Replace the image path above with your actual screenshot file.*
-
----
 
 ## Technologies Used
 
@@ -31,8 +24,4 @@ A simple, customizable Pomodoro Timer web app built with HTML, CSS, and JavaScri
 - **CSS:** Styling, color changes, and blinking animation.
 - **JavaScript:** Timer logic, interactivity, and UI updates.
 
----
 
-## Installation
-
-1. **Clone the repository:**
