@@ -1,5 +1,5 @@
 # Pomodoro-Timer
- # Pomodoro Timer
+## Pomodoro Timer
 
 A simple, customizable Pomodoro Timer web app built with HTML, CSS, and JavaScript. This project helps you manage your work and break intervals using the Pomodoro Technique to boost productivity and maintain focus.
 
@@ -26,7 +26,7 @@ A simple, customizable Pomodoro Timer web app built with HTML, CSS, and JavaScri
 
 ---
 
-## Images/ScreenShots
+## Images/ScreenShots <i class="fa-solid fa-images"></i>
 Start Stage Image.
  ![Start](./Images/First.jpeg)
 
