@@ -26,12 +26,12 @@ A simple, customizable Pomodoro Timer web app built with HTML, CSS, and JavaScri
 
 ---
 
-## Images/ScreenShots <i class="fa-solid fa-images"></i>
+## Images/ScreenShots
 Start Stage Image.
  ![Start](./Images/First.jpeg)
 
-When press a pause button. 
- ![Pause](./Images/Pause.jpeg)
+When press a pause button.
+ ![Pasue](./Images/Pause.jpeg)
 
 Time Up.<br>
 ![Thank You](./Images/End.jpeg)
