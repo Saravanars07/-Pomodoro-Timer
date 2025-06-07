@@ -24,4 +24,14 @@ A simple, customizable Pomodoro Timer web app built with HTML, CSS, and JavaScri
 - **CSS:** Styling, color changes, and blinking animation.
 - **JavaScript:** Timer logic, interactivity, and UI updates.
 
+---
 
+## Images/ScreenShots
+Start Stage Image.
+ ![Start](./Images/First.jpeg)
+
+When press a pause button. 
+ ![Pause](./Images/Pause.jpeg)
+
+Time Up.<br>
+![Thank You](./Images/End.jpeg)
